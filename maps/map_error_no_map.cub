@@ -1,0 +1,8 @@
+R 1000  1200
+NO ./img/img.xpm
+SO ./img/img.xpm
+WE ./img/img.xpm
+EA ./img/img.xpm
+S ./img/pics/pillar.xpm
+F 0,254,255  
+C 0,150,150
